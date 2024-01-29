@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain-community = "*"
+python-dotenv = "*"
+black = "*"
+langchain = "*"
+langchain-experimental = "*"
+langchain-openai = "*"
+langchainhub = "*"
+
+[dev-packages]
